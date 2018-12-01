@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 16DB-6E6B
+
+ Directory of C:\Users\vshadmin\Desktop\AS
+
+01-12-2018  13:02    <DIR>          .
+01-12-2018  13:02    <DIR>          ..
+01-12-2018  13:02                 0 data.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  206,063,685,632 bytes free
